@@ -31,10 +31,10 @@ strength: weak (2/5)
 
 issues:
 
-too short-use at least 12 characters
-add at least one uppercase letter
-add at least one symbol
-suggested Password: X8!kP2zQw9Lm
+-too short-use at least 12 characters
+-add at least one uppercase letter
+-add at least one symbol
+-suggested Password: X8!kP2zQw9Lm
 
 ## Note
 
